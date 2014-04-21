@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/addfiles.png</file>
+        <file>img/addfolder.png</file>
+        <file>img/ape.png</file>
+        <file>img/del.png</file>
+        <file>img/flac.png</file>
+        <file>img/m4a.png</file>
+        <file>img/mp3.png</file>
+        <file>img/settings.png</file>
+        <file>img/wave.png</file>
+    </qresource>
+</RCC>
